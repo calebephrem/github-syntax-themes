@@ -1,7 +1,7 @@
 <br />
 <div align="center">
 
-  <img src="./public/icon.png" alt="GitHub Syntax Themes" width="200" height="200" />
+  <img src="./public/icon-stroke.png" alt="GitHub Syntax Themes" width="200" height="200" />
 
   <p align="center" style="margin-top: 12px;">
     <strong><small>GitHub Syntax Themes</small></strong>
@@ -11,7 +11,7 @@
 
 # GitHub Syntax Themes
 
-A browser extension that lets you apply custom syntax highlighting themes to GitHub code blocks, pull request diffs, and Markdown snippets.
+A browser extension that lets you apply custom syntax highlighting themes to GitHub code blocks, gists, and Markdown snippets.
 
 It works by injecting CSS overrides into GitHub’s existing syntax system and mapping theme values to GitHub’s internal token classes (`.pl-*`) and modern PrettyLights CSS variables.
 

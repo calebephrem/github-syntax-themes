@@ -13,9 +13,8 @@ export default defineConfig({
   manifest: {
     name: "GitHub Syntax Themes",
     description:
-      "A collection of syntax themes for GitHub's code blocks, PR diffs, and markdown code snippets. Install the extension, then pick your favorite theme from the popup to apply it across GitHub's interface.",
+      "A collection of syntax themes for GitHub's code blocks, gists, and markdown code snippets.",
     version: "1.0.0",
-    default_locale: "en",
     action: {
       default_title: "GitHub Syntax Themes",
       default_icon: {

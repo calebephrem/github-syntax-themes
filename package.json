@@ -1,6 +1,6 @@
 {
   "name": "github-syntax-themes",
-  "description": "A collection of syntax themes for GitHub's code blocks, PR diffs, and markdown code snippets. Install the extension, then pick your favorite theme from the popup to apply it across GitHub's interface.",
+  "description": "A collection of syntax themes for GitHub's code blocks, gists, and markdown code snippets.",
   "private": true,
   "version": "1.0.0",
   "type": "module",
