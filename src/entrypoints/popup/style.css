@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    color-scheme: light dark;
+    font-synthesis: none;
+    overflow: hidden;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply m-0 flex items-center justify-center min-w-80 min-h-screen;
+  }
+
+  a {
+    @apply font-medium text-blue-500 no-underline hover:text-blue-600;
+  }
+}
