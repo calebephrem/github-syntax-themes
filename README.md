@@ -185,6 +185,8 @@ This ensures compatibility across both old and new GitHub UI systems.
 
 ## ![Winter Is Coming](./src/assets/ss3.png)
 
+## ![Gist Example](./src/assets/ss4.png)
+
 ## Tech Stack
 
 - WXT (browser extension framework)
